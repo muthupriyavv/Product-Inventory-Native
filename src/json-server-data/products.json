@@ -1,0 +1,31 @@
+{
+  "products": [
+    {
+      "name": "Wallpaper",
+      "price": "10000",
+      "quantity": "300",
+      "category": "Home decors",
+      "brand": "WoodKart",
+      "image": "https://media.kohlsimg.com/is/image/kohls/home-trends-sl-hs-20200228-farmhouse_dt?scl=1&fmt=pjpeg",
+      "id": 9
+    },
+    {
+      "name": "Iphone",
+      "price": "40000",
+      "category": "electonics",
+      "quantity": "100",
+      "brand": "Apple",
+      "image": "https://cdn.mos.cms.futurecdn.net/fosfGESG8tbwRfovTETSJK-650-80.jpg.webp",
+      "id": 10
+    },
+    {
+      "name": "Sony Xperia",
+      "price": "10000",
+      "category": "electronics",
+      "quantity": "100",
+      "brand": "Sony",
+      "image": "https://fscl01.fonpit.de/userfiles/4376948/image/sony-xperia-z5-back.JPG",
+      "id": 11
+    }
+  ]
+}
